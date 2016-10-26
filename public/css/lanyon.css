@@ -54,6 +54,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+.btn {
+  background: #50317c;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 0.75em;
+  border: 1px solid rgb(123, 144, 208)
+}
+
+.btn .blue {
+  background: #02437c;
+}
+
+.btn .green {
+  background: #087c69;
+}
+
+.btn .red {
+  background: #b54645;
+  border: 1px solid rgb(130, 38, 39)
+}
+
+
+
 /*
  * Wrapper
  *

@@ -15,6 +15,7 @@
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
+            <p><a href="#ex1" rel="modal:open">Join Our Newsletter</a></p>
           </h3>
         </div>
       </div>
@@ -25,6 +26,12 @@
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+
+      <div id="ex1" style="display:none;">
+    <p>Thanks for clicking.  That felt good.  <a href="#" rel="modal:close">Close</a> or press ESC</p>
+  </div>
+
 
     <script>
       (function(document) {
@@ -43,5 +50,8 @@
         }, false);
       })(document);
     </script>
+    <script   src="https://code.jquery.com/jquery-3.1.1.slim.min.js"   integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="   crossorigin="anonymous"></script>
+    <script src="/js/jquery.modal.min.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="/js/jquery.modal.css" type="text/css" media="screen" />
   </body>
 </html>
