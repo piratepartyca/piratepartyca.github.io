@@ -2,14 +2,13 @@
 layout: page
 title: Platforms
 ---
-{% for category in site.categories %}
-	<li><a name="{{ category | first }}">{{ category | first }}</a>
-	<ul>
-	{% for posts in category %}
-		{% for post in posts %}
-			<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-		{% endfor %}
-	{% endfor %}
-	</ul>
-	</li>
+
+<p>This needs to be cleaned up further.</p>
+
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "policy" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
 {% endfor %}
+</ul>
