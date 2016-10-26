@@ -461,7 +461,7 @@ a.pagination-item:hover {
 }
 
 
-@media (min-width: 500em) {
+@media (min-width: 90em) {
   .sidebar {
     left: 0rem;
     z-index: 1;
