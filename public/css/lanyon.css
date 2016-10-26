@@ -467,6 +467,9 @@ a.pagination-item:hover {
     z-index: 1;
     visibility: visible;
   }
+  .wrap {
+    margin-left: 5em;
+  }
 }
 
 /*
