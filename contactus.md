@@ -9,7 +9,7 @@ If you would like to contact us here are the best methods:
 
 Press can contact press@pirateparty.ca to schedule interviews, ask questions, and setup phone calls. Emails are generally responded to within 1 hour during standard business hours (PST). 
 
-***Please note***: While we will make every effort to respond to emails in the language we recieve them, to ensure clear messaging we unfortunately will only do interviews in English. 
+***Please note***: While we will make every effort to respond to emails in the language we recieve them; to ensure clear messaging we, unfortunately, will only do interviews in English. 
 
 ## Public / Members
 
