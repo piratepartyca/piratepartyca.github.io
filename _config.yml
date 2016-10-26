@@ -1,24 +1,59 @@
-# Dependencies
-markdown:         kramdown
-
-# Permalinks
-permalink:        pretty
-
-# Setup
 title:            Pirate Party of Canada
 tagline:          'Evidence Based Policy Making'
-description:      'Evidence based policy making focusing on progressive values.'
-url:              https://pirateparty.ca
-baseurl:          https://piratepartyca.github.io
+description:      Evidence based policy making informing progressive values
+disqus_shortname: 
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url: https://piratepartyca.github.io
 
+# Owner/author information
 author:
-  name:           'Pirate Party of Canada'
-  url:            https://twitter.com/piratepartyca
+  name:           Pirate Party of Canada
+  email:          info@pirateparty.ca
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:
 
-paginate:         5
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
 
-# Custom vars
-version:          1.0.0
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Vancouver
+future:      false  # publish future dated posts --  true, false (default) 
+highlighter: rouge
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
 
-github:
-  repo:           https://github.com/piratepartyca/piratepartyca.github.io
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
