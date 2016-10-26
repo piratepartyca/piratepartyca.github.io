@@ -2,9 +2,83 @@
 layout: page
 title: Platforms
 ---
+<h3>Civil Liberties</h3>
 <ul>
 {% for post in site.posts %}
-    {% if post.categories contains "policy" %}
+    {% if post.categories contains "civil-liberties" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h3>Defence</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "defence" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h3>Digital Economy / Digital Rights</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "digital-economy-and-digital-rights" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h3>Economy and Jobs</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "economy-and-jobs" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h3>Education</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "education" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h3>Healthcare</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "health" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h3>Justice</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "justice" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h3>Restoring Trust in Government</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "restoring-trust-in-government" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+
+<h3>Social</h3>
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "social-policy" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
