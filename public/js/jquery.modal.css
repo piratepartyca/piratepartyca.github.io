@@ -6,8 +6,8 @@
   z-index: 1;
   padding: 20px;
   box-sizing: border-box;
-  background-color: rgb(239, 239, 239);
-  background-color: rgba(239, 239, 239, 0.92);
+  background-color: rgb(255, 255, 255)
+  background-color: rgba(255, 255, 255, 0.95)
   text-align: center;
 }
 .blocker:before{
@@ -35,11 +35,6 @@
   -o-border-radius: 8px;
   -ms-border-radius: 8px;
   border-radius: 8px;
-  -webkit-box-shadow: 0 0 10px #000;
-  -moz-box-shadow: 0 0 10px #000;
-  -o-box-shadow: 0 0 10px #000;
-  -ms-box-shadow: 0 0 10px #000;
-  box-shadow: 0 0 10px #000;
   text-align: left;
 }
 
