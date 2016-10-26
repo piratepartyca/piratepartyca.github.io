@@ -1,0 +1,43 @@
+---
+title: Keep DRM Out Of HTML 5
+date: 2013-04-30T21:21:51+00:00
+author: Travis McCrea
+layout: post
+categories: [intellectual-property, international-issues]
+permalink: /2013/04/30/keep-drm-out-of-html-5/
+---
+The Pirate Party of Canada has signed an open letter with the Free Software Foundation (FSF) encouraging the World Wide Web Consortium (W3C) to reject the Encrypted Media Extensions (EME) proposal as a part of HTML, the foundation of the web as most people know it. The proposal establishes the foundation for what will be used as a Digital Rights Management (DRM) system built into our web, this isn&#8217;t just bad because it blocks Canadians from using content under fair dealings, but also because it fragments the web and creates security risks for users who will have to install closed source software with bugs and holes in it just to browse their favourite sites.
+
+The effort is, of course, to protect intellectual property right holders from &#8220;piracy&#8221; on the Internet. We understand peoples desire to control the content that they create and empathize with those who have been taught to use copyright and digital locks like DRM as a crutch for their inability to market their creations. However, this part of HTML would not even solve that problem as DRM does not prevent piracy. We can look to the recent Sim City launch and see that DRM only hurt the paying customers of the game, while savvy pirates were able to not only download the game and play it, but also remove some of the hassles that were created by EA&#8217;s DRM system. 
+
+&#8220;We are not anti-copyright,&#8221; says party leader Travis McCrea. &#8220;We are pro-internet freedom. HTML and the web was built on open standards, as a web developer, when I make a website I know that it can be viewed on every device and usually in the exact design that I designed for it. What people who support DRM are forgetting are the thousands of different devices they would have to create plugins for and expand their code for. History has shown us that Linux users are often excluded from this, but more importantly people who are disabled and use screen readers and other accessibility devices get ignored.&#8221;
+
+We encourage all Canadians to tell the W3C that they want control over what their browser does, and that they want the Internet to be a free and open space. Canadians can go to http://www.defectivebydesign.org/sign-on-against-drm-in-html to learn more about DRM in HTML and how to fight against it. Attached is the letter we signed:
+
+Dear Sir Berners-Lee,
+
+We write to implore the World Wide Web Consortium and its member organizations to reject the Encrypted Media Extensions (EME) proposal. As prominent organizations defending Internet and computing freedom, we join the more than fifteen-thousand Web users who have already signed Defective by Design&#8217;s petition against EME. This disastrous proposal would change HTML, the underlying language of the Web, to make it accommodate and encourage Digital Restrictions Management (DRM). EME is sponsored by a handful of powerful companies who are W3C members, like Microsoft and Netflix. These companies have been promoting DRM both for their own reasons and as part of their close relationships to major media companies. DRM restricts the public&#8217;s freedom, even beyond what overzealous copyright law requires, to the perceived benefit of this privileged, powerful few.
+
+The W3C&#8217;s work is crucial to the continued integrity and interoperability of the global network. We recognize the need for the W3C to respond to the changing landscape of the Web and to reconcile the interests of multiple parties. But ratifying EME would be an abdication of responsibility; it would harm interoperability, enshrine nonfree software in W3C standards and perpetuate oppressive business models. It would fly in the face of the principles that the W3C cites as key to its mission and it would cause an array of serious problems for the billions of people who use the Web.
+
+First, in the process of rendering media, every required browser plug-in is a metaphorical gate where restrictions can be enforced. Since DRM requires denying users their right to modify the plug-ins and other relevant programs, it is by nature incompatible with free &#8220;as in freedom&#8221; software. Because of this, browser plug-ins designed to play media under the EME specification would all be proprietary, and widespread adoption of this plug-in system would pressure more and more Web users to sacrifice their computing freedom in order to view media. Enshrining nonfree software in HTML itself would comparatively diminish the values of freedom, self-actualization and decentralization so critical to the Web as we know it.
+
+Second, EME is inconsistent with W3C&#8217;s stated principles. It would damage the Web&#8217;s interoperability by spurring a new proliferation of the plug-ins for playing DRM-encumbered media. Since each plug-in option could have unique hardware and software restrictions, this would move the Web away from universal compatibility and toward a more fractured state. Therefore, adopting EME would run counter to &#8220;global interoperability,&#8221; an explicit commitment of the Open Stand standards guidelines to which W3C is a signatory.
+
+The W3C&#8217;s official vision statement also &#8220;recognizes that trust is a social phenomenon, but technology design can foster trust and confidence&#8221; and asserts that the W3C&#8217;s mission includes &#8220;building trust on a global scale.&#8221; A specification designed to help companies run secret code on users&#8217; computers to restrict what they do on the Web would severely undermine that trust. The only trust being built here is between media companies calling for DRM and their powerful allies promoting EME in the W3C.
+
+Some have said that EME is not itself a DRM scheme, and so is compatible with the principles underlying the Web. But this is a willfully blind attempt to hide from the bad publicity around DRM. EME has no purpose other than providing a hook in HTML on which to hang digital restrictions. EME author Mark Watson has even stated that &#8220;Certainly, our interest is in [use] cases that most people would call DRM.&#8221; Claiming that EME adds no DRM to the Web is like saying (in the words of the Electronic Frontier Foundation&#8217;s Peter Eckersley) &#8220;We&#8217;re not vampires, but we&#8217;re going to invite them into your house.&#8221;
+
+Another misguided defense of the proposal is that DRM applied to streaming media is just the same as renting videos at a store or borrowing books from a library and is therefore ethically acceptable. But this position ignores the historical context of DRM and the direction in which media is heading. Applying such restrictions to streaming media may seem less harmful now, when &#8220;ownership&#8221; of most media is still possible by storing it on a personal hard drive. It is quite possible, however, that this option will disappear as companies create a system in which media is only available via streaming &#8212; where they are able to control who views what when with which software. In that situation, the role of DRM will be even more critically important.
+
+Even in the present day, and even if it is applied only during streaming, DRM is not equivalent to restrictions involved when renting physical copies, because it requires computers to permanently treat their own users as hostile. Plug-in software may claim only to serve the purpose of decrypting streaming media, but since it is proprietary, users won&#8217;t be able to see what that software is actually doing. There have been many examples in the short history of DRM of such systems providing attack vectors or otherwise doing much more than advertised, behind users&#8217; backs.
+
+As the Web becomes an ever more vital medium for media, culture, commerce and communication, the base of stakeholders in the W3C&#8217;s decisions is widening and diversifying. But ratifying EME would represent the narrow interests of entrenched software firms with strong ties to the entertainment industry. Though it is not in the W3C&#8217;s power to prevent these companies from implementing DRM on the Web, endorsing EME would constitute an abdication of responsibility to the core goals of the W3C and the Web-using public. We call on the W3C to reject EME and any other provision for DRM in World Wide Web standards.
+
+Sincerely,
+  
+Travis McCrea
+  
+Party Leader
+  
+Pirate Party of Canada

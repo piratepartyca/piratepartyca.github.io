@@ -1,0 +1,13 @@
+---
+title: PRESS RELEASE: Increased Fundraising Ability in C-23 a Potential Harm to Democracy
+date: 2014-04-12T01:46:00+00:00
+author: James Wilson
+layout: post
+categories: [elections, newsroom, parliament, political-fundraising]
+permalink: /2014/04/12/press-release-increased-fundraising-ability-in-c-23-a-potential-harm-to-democracy/
+---
+While issues concerning the elimination of vouching have been discussed at length it is not the most damaging change proposed in Bill C-23. Several of the provisions of C-23 would greatly increase how much money parties can fundraise. As events south of the border demonstrate the infusion of greater funds into elections does not lead to better democracy but instead provides a constant distraction to parties and elected representatives.
+
+In the US Congress new representatives are instructed to devote at least four hours every day to fundraising. That is twice the amount of time they are instructed to put towards committee hearings, floor votes, or meetings with constituents. While Canada has not embraced the near-limitless fundraising common in the United States C-23 moves us towards it. How will this effect Canadians? For starters an increase in how much a party can raise and spend also increases how much money a party needs to win. This in turn increases the time a party and its candidates need to devote to fundraising. This leaves less time and energy for the development and examination of policy. The end result being a lower quality of representation in Ottawa.
+
+&#8220;Interestingly the statistics Conservatives quote seem to support there being no need to raise the donation cap. On Thursday at a Senate hearing regarding C-23 Senator Donald Plett noted that the average donation by a Conservative Party donor was a mere $99/donor. If the average Conservative donor, and indeed the average Canadian, donates well below the cap is that not an argument for lowering the donation cap rather than raising it? It seems to me that keeping the cap closer to what the average Canadian can donate keeps any one group from having too much influence on our democratic system&#8221;, says James Wilson, Leader of the Pirate Party of Canada. &#8220;There are several highly questionable parts of C-23, it is unfortunate that debate seems to be highly focused around the vouching issue.&#8221; The Pirate Party requests that the parties in Parliament think carefully whether they actually need the added fundraising revenue and whether it is worth the potential consequences.
