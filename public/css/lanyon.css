@@ -208,6 +208,14 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.join-button {
+  position: absolute;
+  top:  .8rem;
+  right: 1rem;
+  display: block;
+  padding: .25rem .75rem;
+}
+
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
 .sidebar-checkbox {
   position: absolute;
@@ -229,6 +237,8 @@ a.sidebar-nav-item:focus {
   border-radius: .25rem;
   cursor: pointer;
 }
+
+
 
 .sidebar-toggle:before {
   display: inline-block;
@@ -266,6 +276,9 @@ a.sidebar-nav-item:focus {
 @media print {
   .sidebar-toggle {
     display: none;
+  }
+  .join-button {
+    display:none;
   }
 }
 
