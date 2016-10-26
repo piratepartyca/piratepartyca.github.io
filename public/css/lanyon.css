@@ -561,7 +561,7 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
-.btn a {
+a.btn {
   color: white;
   text-decoration: none;
 }
