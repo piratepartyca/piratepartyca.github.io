@@ -9,7 +9,8 @@ permalink:        pretty
 title:            Pirate Party of Canada
 tagline:          'Evidence Based Policy Making'
 description:      'Evidence based policy making focusing on progressive values.'
-url:              http://pirateparty.ca
+url:              https://pirateparty.ca
+baseurl:          https://piratepartyca.github.io
 
 author:
   name:           'Pirate Party of Canada'

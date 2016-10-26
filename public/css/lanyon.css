@@ -38,6 +38,8 @@
 html,
 body {
   overflow-x: hidden;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 html {
@@ -311,6 +313,10 @@ a.sidebar-nav-item:focus {
 .page,
 .post {
   margin-bottom: 4em;
+}
+
+.page div, .post div {
+  padding-bottom: 15px;
 }
 
 /* Blog post or page title */
