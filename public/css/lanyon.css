@@ -561,6 +561,10 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+.btn a {
+  color: white;
+  text-decoration: none;
+}
 .btn {
   background: #50317c;
   color: white;
