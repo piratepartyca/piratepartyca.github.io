@@ -453,6 +453,18 @@ a.pagination-item:hover {
   color: #ac4142;
 }
 
+.theme-base-pirate .sidebar,
+.theme-base-pirate .sidebar-toggle:active,
+.theme-base-pirate #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #9503c8;
+}
+.theme-base-pirate .container a,
+.theme-base-pirate .sidebar-toggle,
+.theme-base-pirate .related-posts li a:hover {
+  color: #9503c8;
+}
+
+
 /* Orange */
 .theme-base-09 .sidebar,
 .theme-base-09 .sidebar-toggle:active,
