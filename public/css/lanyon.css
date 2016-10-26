@@ -273,6 +273,8 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
+
 @media print {
   .sidebar-toggle {
     display: none;
@@ -458,6 +460,14 @@ a.pagination-item:hover {
           transform: translateX(-14rem);
 }
 
+
+@media (min-width: 500em) {
+  .sidebar {
+    left: 0rem;
+    z-index: 1;
+    visibility: visible;
+  }
+}
 
 /*
  * Themes
