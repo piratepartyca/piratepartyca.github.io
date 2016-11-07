@@ -7,11 +7,11 @@ categories: [internal]
 
 > This is a notice to all old members of the Pirate Party who have used crm.pirateparty.ca / my.pirateparty.ca but have never signed into sso.pirateparty.ca. 
 
-At 0200 PSDT (actually due to time paradox of DST I am not sure if this is 0200 PST or PDST), an email was sent to all older members of our party who had not yet signed into our new SSO system. An email was written to inform them of the new system and to request they update their information in our backend. Sadly, due to a bug in the script which emails out the members it iterated the list to each member who came after them in the database. 
+At 0200 PSDT (actually due to time paradox of DST I am not sure if this is 0200 PST or PDST), an email was sent to all older members of our party who had not yet signed into our new SSO system. An email was written to inform them of the new system and to request they update their information in our backend. Sadly, due to a bug in the script which emails out the members, it iterated the list to each member who came after them in the database. 
 
-IE Member 1 got their email then Member 1 got Member 2's email. Member 1 AND Member 2 then got Member 3s email. 
+IE Member 1 got their email, then Member 1 got Member 2's email, Member 1 AND Member 2 then got Member 3s email. 
 
-We tried to stop the emails from completing, as our email partner SendGrid has failsafes against this. Sadly by the time we got ahold of SendGrid the emails had already cleared the queue and we have no way of knowing how many of the 315 people who were on this list actually received the emails. What we do know is 4,072 were sent, and the code has already been updated so this problem never happens again. The damage, however, has been done and for a party that prides itself on personal privacy this breach is even worse.
+We tried to stop the emails from completing, as our email partner SendGrid has failsafes against this. Sadly, by the time we got ahold of SendGrid the emails had already cleared the queue and we have no way of knowing how many of the 315 people who were on this list actually received the emails. What we do know is 4,072 were sent, and the code has already been updated so this problem never happens again. The damage, however, has been done and for a party that prides itself on personal privacy this breach is even worse.
 
 ### Technical Details
 
@@ -64,7 +64,7 @@ There are many ways this can be prevented in the future, the most obvious one is
 
 On the technical side, I have added multiple accounts under a dummy name that no one else will have and emails will be tested against this list before others.
 
-Also the proper code was put into place to reset the array. 
+Also, the proper code was put into place to reset the array. 
 
 I am truly sorry to anyone who was affected by this, there is no action you need to take... no password information was shared (and our passwords are encrypted using B_CRYPT with 12 rounds of strength anyway). This information is here because I screwed up, and one of the things we do in the Pirate Party is admit our failures, we try not to spin them, and we move forward. So far the people who were up at this hour and have responded have seemed fairly understanding, I appreciate that and all I can do is promise to do better next time.
 
