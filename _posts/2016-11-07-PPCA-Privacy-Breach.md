@@ -68,6 +68,6 @@ Also, the proper code was put into place to reset the array.
 
 I am truly sorry to anyone who was affected by this, there is no action you need to take... no password information was shared (and our passwords are encrypted using B_CRYPT with 12 rounds of strength anyway). This information is here because I screwed up, and one of the things we do in the Pirate Party is admit our failures, we try not to spin them, and we move forward. So far the people who were up at this hour and have responded have seemed fairly understanding, I appreciate that and all I can do is promise to do better next time.
 
-***EDIT: A previous version of this post refer to this as a "breach", to avoid confusion on malicious intrusion and stupidity we are using the term "mishap". Further we would like to remind everyone that we at no time have credit card data either in our servers or in our database. We use a secure payment gateway and your information is securely kept in their fully PCI compliant system***
+***EDIT: A previous version of this post refer to this as a "breach", to avoid confusion between malicious intrusion and stupidity we are using the term "mishap". Further we would like to remind everyone that we at no time have credit card data either in our servers or in our database. We use a secure payment gateway and your information is securely kept in their fully PCI compliant system***
 
 -- Travis McCrea
