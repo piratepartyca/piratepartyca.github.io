@@ -11,7 +11,7 @@ At 0200 PSDT (actually due to time paradox of DST I am not sure if this is 0200 
 
 IE Member 1 got their email then Member 1 got Member 2's email. Member 1 AND Member 2 then got Member 3s email. 
 
-We tried to stop the emails from completing, as our email partner SendGrid has failsafes against this. Sadly by the time we got ahold of SendGrid the emails had already cleared the queue and we have no way of knowing how many of the 315 people who were on this list actually recieved the emails. What we do know is 4,072 were sent, and the code has already been updated so this problem never happens again. The damage, however, has been done and for a party that prides itself on personal privacy this breach is even worse.
+We tried to stop the emails from completing, as our email partner SendGrid has failsafes against this. Sadly by the time we got ahold of SendGrid the emails had already cleared the queue and we have no way of knowing how many of the 315 people who were on this list actually received the emails. What we do know is 4,072 were sent, and the code has already been updated so this problem never happens again. The damage, however, has been done and for a party that prides itself on personal privacy this breach is even worse.
 
 ### Technical Details
 
