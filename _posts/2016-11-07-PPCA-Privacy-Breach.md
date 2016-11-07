@@ -1,5 +1,5 @@
 ---
-title: Pirate Party Privacy Breach Notice
+title: Pirate Party Privacy Mishap Notice
 author: Travis McCrea
 layout: post
 categories: [internal]
@@ -11,7 +11,7 @@ At 0200 PSDT (actually due to time paradox of DST I am not sure if this is 0200 
 
 IE Member 1 got their email, then Member 1 got Member 2's email, Member 1 AND Member 2 then got Member 3s email. 
 
-We tried to stop the emails from completing, as our email partner SendGrid has failsafes against this. Sadly, by the time we got ahold of SendGrid the emails had already cleared the queue and we have no way of knowing how many of the 315 people who were on this list actually received the emails. What we do know is 4,072 were sent, and the code has already been updated so this problem never happens again. The damage, however, has been done and for a party that prides itself on personal privacy this breach is even worse.
+We tried to stop the emails from completing, as our email partner SendGrid has failsafes against this. Sadly, by the time we got ahold of SendGrid the emails had already cleared the queue and we have no way of knowing how many of the 315 people who were on this list actually received the emails. What we do know is 4,072 were sent, and the code has already been updated so this problem never happens again. The damage, however, has been done and for a party that prides itself on personal privacy this mishap is even worse.
 
 ### Technical Details
 
@@ -67,5 +67,7 @@ On the technical side, I have added multiple accounts under a dummy name that no
 Also, the proper code was put into place to reset the array. 
 
 I am truly sorry to anyone who was affected by this, there is no action you need to take... no password information was shared (and our passwords are encrypted using B_CRYPT with 12 rounds of strength anyway). This information is here because I screwed up, and one of the things we do in the Pirate Party is admit our failures, we try not to spin them, and we move forward. So far the people who were up at this hour and have responded have seemed fairly understanding, I appreciate that and all I can do is promise to do better next time.
+
+***EDIT: A previous version of this post refer to this as a "breach", to avoid confusion on malicious intrusion and stupidity we are using the term "mishap". Further we would like to remind everyone that we at no time have credit card data either in our servers or in our database. We use a secure payment gateway and your information is securely kept in their fully PCI compliant system***
 
 -- Travis McCrea
