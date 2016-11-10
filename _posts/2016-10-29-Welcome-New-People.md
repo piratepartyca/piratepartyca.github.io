@@ -10,7 +10,7 @@ Welcome New Supporters and Media (lots and lots of media),
 Many of you (especially the media, apparently) might have never known that our party exists. While we have been around since 2009, we haven't done the best at letting Canadians know that we are here and ready to work for them. So let's do a brief introduction to The Pirate Party of Canada and why we are a real political party with real good ideas:
 
 * We have existed since 2009 run in both major elections since then as well as some by-elections.
-* We are a civil liberties party focusing on internet protection, copyright reform, and evidence based policy making. Our flagship platform is Universal Basic Income, something we have been talking about since 2011.
+* We are a civil liberties party focusing on protection of the Internet, copyright reform, and evidence based policy making. Our flagship platform is Universal Basic Income, something we have been talking about since 2011.
 * We are currently the only party with a plan that addresses job automation and job losses associated with it. Basic Income being the cornerstone of that plan.
 * We call ourselves Pirates because it's a great introduction in conversation, we could be the Purple Party or the Humanist Party but no one wants to be stopped on the street by someone who calls themselves "Purples" but everyone always wants to know why we are called Pirates. We were given this name by the copyright industry, our counterculture movement has always been called pirates and instead of trying to shy away from it, we have decided to embrace it and take empowerment from it.
 * We have caught members of Parliament, the RCMP, and Industry Canada all having IP addresses which were downloading torrent files.
