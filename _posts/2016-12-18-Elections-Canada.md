@@ -22,7 +22,7 @@ The problem, however, is with this additional level of validation Elections Cana
 
 We have sent a more detailed complaint to the Elections Commissioner, who oversees violations of the Elections Act and we anticipate they will rule in our favour. 
 
-##We Need Your Help
+### We Need Your Help
 If you have not already filled out a form (or never got a verification letter from Elections Canada), please [Download This Form](https://sso.pirateparty.ca/membership.pdf) and mail it to:
 
 ```
