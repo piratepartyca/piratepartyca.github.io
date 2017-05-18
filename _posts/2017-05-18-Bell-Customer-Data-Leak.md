@@ -2,7 +2,7 @@
 title: Bell Customer Data Leak Highlights Need For More Attention On Cyber Security and Data Privacy
 author: Travis McCrea
 layout: post
-categories: [Data Security]
+categories: [Data-Security]
 ---
 
 Bell, one of Canada's largest internet providing monopolies, was hacked and had their client information stolen and posted to the Internet on Monday. I have obtained a preliminary list of customers who are effected (which contains over 1.5 million email addresses) and verified a few to ensure the data is real (Bell has since released an apology to the affected customers, also confirming the data).
