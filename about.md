@@ -11,6 +11,6 @@ The Pirate Party is frequently called the Internet Party and to some we are, but
 
 We encourage you to take a look at our collaborative [platforms](https://pirateparty.ca/platforms) and then stop by our [Reddit Page](http://reddit.com/r/piratepartyofcanada) and discuss your feelings of the party and hopefully find some good locals to meet up with. I, personally, would like to thank you for visiting our page and I hope that the Pirate Party is the right fit for you. We are not extremists, we are just honest people who are trying to make life better for everyone.
 
-Travis McCrea
+-- Travis McCrea
   
-Former Party Leader, 2013
+Party Leader 
