@@ -26,7 +26,7 @@ Our primary method of party communication is on IRC. [Members](https://sso.pirat
 
 ## Team Directory
 
-**Travis McCrea** - Leader - travis.mccrea@pirateparty.ca / 604-500-4524 (Voicemails will not be responded to, SMS encouraged)
+**Travis McCrea** - Leader - travis.mccrea@pirateparty.ca / 604-500-4524 (Voicemails will not be responded to, SMS encouraged) / @TravisVancouver twitter
 
 **Bailey Lamon** - President - bailey.lamon@pirateparty.ca 
 
